@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../ultimate-react-course-main/ultimate-react-course-main/03-pizza-menu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "react basics",
+		"cSpell.words": [
+			"funghi"
+		]
+	}
+}
